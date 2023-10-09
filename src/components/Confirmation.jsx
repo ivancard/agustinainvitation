@@ -38,6 +38,9 @@ export const Confirmation = () => {
           <input type="submit" value="Confirmar" />
         </form>
       </div>
+      <div className="aclaration">
+        <p>Traer equipo de mate y ropa para pileta.</p>
+      </div>
     </section>
   );
 };
