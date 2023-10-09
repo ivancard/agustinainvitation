@@ -7,7 +7,7 @@ export const Location = () => {
       style={{ backgroundImage: `url(${texture})` }}
     >
       <h2>¿Dónde y Cuando?</h2>
-      <p>Sábado 17 de Septiembre a las 20:00hs</p>
+      <p>Domingo 5 de Noviembre a las 20:00hs</p>
       <p>Gral. Ramón Freire 2490 - Belgrano</p>
       <p>Parroquia Nuestra señora de Lourdes</p>
 

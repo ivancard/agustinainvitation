@@ -21,7 +21,7 @@ export const Header = () => {
           <h3>Nuestra Boda</h3>
           <hr />
           <h1 className='titulo1'>
-            <span className='gabriel'>Gabriel</span> & Jesica
+            <span className='gabriel'>Mauro</span> & Celeste
           </h1>
         </div>
       </div>
