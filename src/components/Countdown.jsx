@@ -3,7 +3,7 @@ import './countdown.scss';
 import watercolorOv from '../assets/img/texture3.jpg';
 
 export const Countdown = () => {
-  const deadline = 'November, 5, 2023';
+  const deadline = 'May, 18, 2025';
 
   const [days, setDays] = useState(0);
   const [hours, setHours] = useState(0);

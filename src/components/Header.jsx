@@ -1,5 +1,5 @@
 import './header.scss';
-import imgCouple from '../assets/img/couple.jpg';
+import imgCouple from '../assets/img/couple.jpeg';
 import watercolorOv from '../assets/img/watercolor.jpg';
 import texture from '../assets/img/texture3.jpg';
 
@@ -18,10 +18,10 @@ export const Header = () => {
           className='titleHeader'
           style={{ backgroundImage: `url(${texture})` }}
         >
-          <h3>Nuestra Boda</h3>
+          <h3>Mis 20 años</h3>
           <hr />
           <h1 className='titulo1'>
-            <span className='gabriel'>Mauro</span> & Celeste
+            <span className='gabriel'>Agustina</span> 
           </h1>
         </div>
       </div>

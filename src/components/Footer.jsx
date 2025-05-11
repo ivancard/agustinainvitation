@@ -4,9 +4,9 @@ export const Footer = () => {
   return (
     <div
       className="footer-image"
-      style={{ backgroundImage: `url(${footerImg})` }}
+      // style={{ backgroundImage: `url(${footerImg})` }}
     >
-      <h2>Te esperamos</h2>
+      <h2>Te espero</h2>
     </div>
   );
 };

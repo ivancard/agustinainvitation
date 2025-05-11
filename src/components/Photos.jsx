@@ -1,5 +1,5 @@
 import "./photos.scss";
-import photo1 from "../assets/img/photo-1.jpg";
+import photo1 from "../assets/img/photo-1.jpeg";
 import photo2 from "../assets/img/photo-2.jpg";
 import photo3 from "../assets/img/photo-3.jpg";
 import versicle from "../assets/img/versiculo.png";
