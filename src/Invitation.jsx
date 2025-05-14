@@ -13,7 +13,7 @@ function Invitation() {
       <Overlay />
       <Header />
       <Location />
-      {/* <Photos /> */}
+      <Photos />
       <Countdown />
       {/* <Confirmation /> */}
       <Footer />
