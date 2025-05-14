@@ -15,7 +15,7 @@ function Invitation() {
       <Location />
       <Photos />
       <Countdown />
-      {/* <Confirmation /> */}
+      <Confirmation />
       <Footer />
     </>
   );

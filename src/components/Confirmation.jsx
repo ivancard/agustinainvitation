@@ -31,7 +31,7 @@ export const Confirmation = () => {
             type="text"
             name="entry.1995556633"
             id="name"
-            placeholder="Igresá tu nombre y apellido"
+            placeholder="Igresá tu nombre"
             required
             autoComplete="off"
           />
@@ -39,7 +39,7 @@ export const Confirmation = () => {
         </form>
       </div>
       <div className="aclaration">
-        <p>Traer equipo de mate y ropa para pileta.</p>
+        {/* <p>Traer equipo de mate y ropa para pileta.</p> */}
       </div>
     </section>
   );
