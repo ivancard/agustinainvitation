@@ -7,7 +7,7 @@ export const Location = () => {
       style={{ backgroundImage: `url(${texture})` }}
     >
       <h2>¿Dónde y Cuando?</h2>
-      <p>Domingo 18 de Noviembre</p>
+      <p>Domingo 18 de Mayo</p>
       <p>Al mediodía</p>
       <p> </p>
 
