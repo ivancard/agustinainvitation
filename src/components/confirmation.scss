@@ -4,6 +4,7 @@
   background-color: lighten($color: $champagne-1, $amount: 5%);
   background-blend-mode: multiply;
   display: flex;
+  background-size: cover;
   flex-flow: column;
   justify-content: center;
   align-items: center;
